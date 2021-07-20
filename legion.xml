@@ -89,6 +89,7 @@
   <project path="external/vim" name="android_external_vim" remote="lineage" />
   <project path="external/toybox" name="android_external_toybox" remote="lineage" />
   <project path="external/boringssl" name="android_external_boringssl" remote="lineage" />
+  <project path="external/exfatprogs" name="android_external_exfatprogs" remote="lineage" />
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="frameworks_av" remote="legion"  />
